@@ -1,7 +1,3 @@
-To create a README file for your GitHub repository based on the provided project details, you can follow the structure below:
-
----
-
 Voting Web Application using Django Framework
 
 ## Introduction
